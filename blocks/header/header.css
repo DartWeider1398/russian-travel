@@ -1,6 +1,10 @@
+/* * {
+  border: 1px solid red;
+} */
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
   max-width: 1184px;
   max-height: 52px;
   padding-top: 28px;
